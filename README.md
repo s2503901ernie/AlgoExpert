@@ -11,3 +11,5 @@ Add Validate Subsequence.
 Add Sorted Squared Array.    
 Add Tournament Winner.  
 Add Non-Constructable Change.
+Add Branch Sums.  
+Add Node Depths.  
