@@ -1,3 +1,12 @@
+"""
+O(n) time
+O(n) space
+
+n is the number of nodes in the tree
+
+"""
+
+
 class BinaryTree:
     def __init__(self, value):
         self.value = value
