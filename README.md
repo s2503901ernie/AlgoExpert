@@ -6,7 +6,7 @@ Used to record my basic algorithm practices
 Start to record my AlgoExpert practices.  
 Add TwoNumberSums with three solutions.
 
-### 2021-21-06
+### 2021-12-06
 Add Validate Subsequence.   
 Add Sorted Squared Array.    
 Add Tournament Winner.  
