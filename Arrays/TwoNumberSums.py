@@ -39,10 +39,14 @@ def solution_3(array, targetSum):
     O(1) space
 
     """
-    nums = {}
-    for num in array:
-        if targetSum - num in nums.keys():
-            return [targetSum - num, num]
+    array.sort()
+    left = 0
+    right = len(array) - 1
+    while left < right:
+        if array[left] + array[right] == targetSum:
+            return [array[left], array[right]]
+        elif array[left] + array[right] < targetSum:
+            left += 1
         else:
-            nums[num] = True
+            right -= 1
     return []
