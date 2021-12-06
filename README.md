@@ -8,7 +8,7 @@ Start to record my AlgoExpert practices.
 Add TwoNumberSums with three solutions.
 
 ### 2021-21-06
-Add Validate Subsequence. 
-Add Sorted Squared Array. 
+Add Validate Subsequence.   
+Add Sorted Squared Array.    
 Add Tournament Winner.  
 Add Non-Constructable Change.
