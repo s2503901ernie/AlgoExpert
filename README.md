@@ -18,3 +18,5 @@ Add Find the Closrse value in BST.
 ### 2021-12-07
 Add Nth Fibonacci.  
 Add BST Construction.   
+Add Remove Duplicates from Linked List.   
+Add Remove Kth node from End.   
