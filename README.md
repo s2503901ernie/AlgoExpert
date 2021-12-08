@@ -20,3 +20,8 @@ Add Nth Fibonacci.
 Add BST Construction.   
 Add Remove Duplicates from Linked List.   
 Add Remove Kth node from End.   
+
+### 2021-12-08
+Add Validate BST.   
+Add BST Traversal.  
+Add Min Height BST.   
