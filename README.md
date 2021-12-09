@@ -30,4 +30,3 @@ Add Min Height BST.
 Add Find Kth Largest Value In BST.  
 Add Reconstruct BST.  
 Add Invert Binary Tree.   
-Add Binary Tree Diameter.   
