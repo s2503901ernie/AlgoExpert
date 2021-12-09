@@ -6,6 +6,12 @@ class BST:
 
 
 def reconstructBst(preOrderTraversalValues):
+    """
+    O(n) time
+    O(n) space
+
+    n is the number of nodes.
+    """
 
     return construct(preOrderTraversalValues, -999999, 999999)
 
