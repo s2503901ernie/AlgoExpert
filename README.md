@@ -42,7 +42,8 @@ Add Three Number Sum.
 Add Smallest Difference.  
 Add Move Element to End.  
 Add Spiral Traverse.  
-
-
-
+Add Longest Peak.   
+Add Array of Products.  
+Add First Duplicate Value.  
+Add Merge Overlapping Intervals.  
 
