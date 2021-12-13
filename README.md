@@ -46,4 +46,5 @@ Add Longest Peak.
 Add Array of Products.  
 Add First Duplicate Value.  
 Add Merge Overlapping Intervals.  
+Add Height Balanced Binary Tree.  
 
