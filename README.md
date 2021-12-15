@@ -55,7 +55,7 @@ Add Single Cycle Check.
 
 ### 2021-12-15
 Add River Sizes.  
-
+Add Minimum Waiting Time.   
 
 
 
