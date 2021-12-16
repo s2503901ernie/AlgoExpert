@@ -59,3 +59,9 @@ Add Minimum Waiting Time.
 Add Tandem Bicycle.   
 Add Task Assignment.  
 
+### 2021-12-16
+Add Palindrome.   
+
+
+
+
