@@ -61,6 +61,8 @@ Add Task Assignment.
 
 ### 2021-12-16
 Add Palindrome.   
+Add Selection Sort.   
+
 
 
 
