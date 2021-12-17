@@ -65,7 +65,7 @@ Add Selection Sort.
 
 ### 2012-12-17
 Add Class Photos.   
-
+Add Insertion Sort.   
 
 
 
