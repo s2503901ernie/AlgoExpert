@@ -67,5 +67,6 @@ Add Selection Sort.
 Add Class Photos.   
 Add Insertion Sort.   
 
-
+### 2012-12-18
+Add Bubble Sort.  
 
