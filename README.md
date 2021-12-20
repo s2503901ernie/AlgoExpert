@@ -70,3 +70,7 @@ Add Insertion Sort.
 ### 2012-12-18
 Add Bubble Sort.  
 
+### 2012-12-20
+Add Youngest Common Ancestor.   
+
+
