@@ -72,5 +72,8 @@ Add Bubble Sort.
 
 ### 2012-12-20
 Add Youngest Common Ancestor.   
+Add Remove Islands.   
+Add Caesar Cipher Encryptor.  
+Add Run-Length Encoding.  
 
 
