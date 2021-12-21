@@ -63,17 +63,21 @@ Add Task Assignment.
 Add Palindrome.   
 Add Selection Sort.   
 
-### 2012-12-17
+### 2021-12-17
 Add Class Photos.   
 Add Insertion Sort.   
 
-### 2012-12-18
+### 2021-12-18
 Add Bubble Sort.  
 
-### 2012-12-20
+### 2021-12-20
 Add Youngest Common Ancestor.   
 Add Remove Islands.   
 Add Caesar Cipher Encryptor.  
 Add Run-Length Encoding.  
+
+### 2021-12-21
+Add Monotonic Array.  
+Add Binary Search.  
 
 
