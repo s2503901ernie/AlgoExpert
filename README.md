@@ -94,3 +94,5 @@ Add Sum of Linked List.
 ### 2021-12-25
 Add Reverse Linked List.  
 
+### 2021-12-26
+Add Merge Linked List.  
