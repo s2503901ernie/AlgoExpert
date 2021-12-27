@@ -101,3 +101,6 @@ Add Shift Linked List.
 ### 2021-12-27
 Add Suffix Trie Construction.   
 Add Generate Document.  
+Add First Non-Repeating Character.    
+
+
