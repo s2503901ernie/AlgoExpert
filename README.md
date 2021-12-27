@@ -97,3 +97,6 @@ Add Reverse Linked List.
 ### 2021-12-26
 Add Merge Linked List.  
 Add Shift Linked List.  
+
+### 2021-12-27
+Add Suffix Trie Construction.   
