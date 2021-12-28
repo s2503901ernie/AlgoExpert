@@ -24,7 +24,7 @@ def nextGreaterElement2(array):
     O(n) time
     O(n) space
 
-    n is the length of the array.   
+    n is the length of the array.
     """
     ans = [-1] * len(array)
     stack = []
