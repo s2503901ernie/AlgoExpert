@@ -108,3 +108,5 @@ Add Group Anagrams.
 ### 2021-12-28
 Add Balanced Brackets.  
 Add Sunset View.  
+Add Next Greater Element.   
+
