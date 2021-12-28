@@ -104,3 +104,6 @@ Add Generate Document.
 Add First Non-Repeating Character.    
 Add Longest Palindromic Substring.  
 Add Group Anagrams.   
+
+### 2021-12-28
+Add Balanced Brackets.  
