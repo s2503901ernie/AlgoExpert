@@ -119,3 +119,6 @@ Add Largest Range.
 Add Validate Three Nodes.   
 Add Three Number Sort.  
 Add Apartment Hunting.  
+
+### 2022-01-04
+Add Max Subset Sum No Adjecent.   
