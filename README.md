@@ -122,3 +122,9 @@ Add Apartment Hunting.
 
 ### 2022-01-04
 Add Max Subset Sum No Adjecent.   
+
+### 2022-01-13
+Number of Ways to Make Changes.   
+
+
+
