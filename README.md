@@ -130,4 +130,7 @@ Number of Ways to Make Changes.
 Add Find Loop.  
 Add Valid IP Address.   
 
+### 2022-01-26
+Add Number of Ways to Traverse Graph.   
+
 
